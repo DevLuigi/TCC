@@ -2,7 +2,7 @@
 
 
 
-# DevStore
+# GameBud
 
 Este projeto objetiva o desenvolvimento de uma aplicação WEB para Venda de Produtos online.
 
